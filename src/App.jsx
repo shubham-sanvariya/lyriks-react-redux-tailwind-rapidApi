@@ -27,6 +27,7 @@ const App = () => {
           </div>
           <div className="xl:sticky relative top-0 h-fit">
             <TopPlay />
+            <SongDetails/>
           </div>
         </div>
       </div>
